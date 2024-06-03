@@ -22,7 +22,7 @@
 >AJAX / JavaScript / HTML / CSS / Thymeleaf
 >github / slack / notion
 >
->[프로젝트 상세 설명][(https://github.com/kimsuujeong/KD3_B_Project)]참고
+>[프로젝트 상세 설명](https://github.com/kimsuujeong/KD3_B_Project)참고
 
 
 
