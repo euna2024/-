@@ -3,7 +3,7 @@
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요 :)
 
 </br>
 
@@ -14,15 +14,15 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->팀프로젝트
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. 팀프로젝트
+>개발 기간: 2024.02.26 ~ 2024.04.19
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>Java / Spring Boot / eclipse / MySQL   
+>AJAX / JavaScript / HTML / CSS / Thymeleaf
+>github / slack / notion
+>
+>[프로젝트 상세 설명][(https://github.com/kimsuujeong/KD3_B_Project)]참고
 
 
 
